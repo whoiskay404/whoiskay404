@@ -294,6 +294,55 @@ Markdown • HTML Reports • JSON Reports • Bug Bounty Dashboards
 
 </div>
 
+## Featured Work
+
+### Recon_Security
+
+A security reconnaissance project focused on turning repetitive discovery work into an organized workflow.
+
+**Capabilities**
+- Subdomain enumeration
+- Live-host validation
+- JavaScript secret discovery
+- XSS reflection detection
+- Endpoint mapping
+- HTML reporting
+
+**Repository:**  
+https://github.com/whoiskay404/Recon_Security_v2
+
+---
+
+### priv_esc
+
+A collection of privilege-escalation research and practical security work.
+
+**Repository:**  
+https://github.com/whoiskay404/priv_esc
+
+---
+
+### Kay Bug Bounty Hunter
+
+A security-focused toolkit for identifying common web and network misconfigurations, with an emphasis on repeatable testing and automation.
+
+**Repository:**  
+https://github.com/kaysociety/kaybugbountyhunter
+
+---
+
+## Web Development
+
+Security is only one side of what I build. I also develop websites and web applications with a focus on clean interfaces, practical functionality, and maintainable implementations.
+
+### Selected Projects
+
+- **Portfolio:** https://whoiskay.vercel.app
+- **CyberAAM:** https://cyberaam.vercel.app
+- **CrocTown:** https://croctown.vercel.app
+
+---
+
 ---
 
 # 🧠 CURRENT OPERATIONS
