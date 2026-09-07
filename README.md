@@ -338,8 +338,9 @@ Security is only one side of what I build. I also develop websites and web appli
 ### Selected Projects
 
 - **Portfolio:** https://whoiskay.vercel.app
-- **CyberAAM:** https://cyberaam.vercel.app
+- **CyberUnit:** (Information Is Private)
 - **CrocTown:** https://croctown.vercel.app
+- **ClotheStore:** https://clothestore-iota.vercel.app
 
 ---
 
