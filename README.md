@@ -314,15 +314,12 @@ A collection of privilege-escalation research and practical security work.
 **Repository:**  
 https://github.com/whoiskay404/priv_esc
 
----
-
-### Kay Bug Bounty Hunter
-
-A security-focused toolkit for identifying common web and network misconfigurations, with an emphasis on repeatable testing and automation.
-
-**Repository:**  
-https://github.com/kaysociety/kaybugbountyhunter
-
+**Capabilities**
+- Linux Kernel
+- SUID Enum
+- CVEs for priv_esc
+- Cronjob detection
+  
 ---
 
 ## Web Development
